@@ -1,0 +1,4 @@
+Observations:
+1. From what we can see, it looks like the male mice were slightly more than the females with a 51% to 49% distribution. 
+2. Looking at the tumor volume for each treatment group, its looks like the volumes were higher for the Infubinol and the Ceftamin regimens. Really seeing averages where their lower volumes are at the top of Capomulin and Ramicane distribution. Infubinol saw an outlier in the data set. 
+3.The second scatter plot with the correlation representation, we see that there is a strong correlation on the results shown. We see that r-squared is 0.70. 
